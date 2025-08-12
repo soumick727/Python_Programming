@@ -16,3 +16,7 @@ list = [3,23,21,5,46,7]
 
 list.sort()
 print(list)
+
+l1 = [1,2,3,2,1]
+l1.copy()
+print(l1)

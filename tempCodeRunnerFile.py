@@ -1,0 +1,1 @@
+set_1.remove(9)
